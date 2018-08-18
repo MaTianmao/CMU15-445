@@ -1,0 +1,245 @@
+Start testing: Aug 04 14:55 CST
+----------------------------------------------------------
+1/13 Testing: buffer_pool_manager_test
+1/13 Test: buffer_pool_manager_test
+Command: "/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/buffer_pool_manager_test" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/buffer_pool_manager_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"buffer_pool_manager_test" start time: Aug 04 14:55 CST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 1 test from 1 test case.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from BufferPoolManagerTest
+[0;32m[ RUN      ] [mBufferPoolManagerTest.SampleTest
+[0;32m[       OK ] [mBufferPoolManagerTest.SampleTest (1 ms)
+[0;32m[----------] [m1 test from BufferPoolManagerTest (1 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test case ran. (1 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"buffer_pool_manager_test" end time: Aug 04 14:55 CST
+"buffer_pool_manager_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/13 Testing: lru_replacer_test
+2/13 Test: lru_replacer_test
+Command: "/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/lru_replacer_test" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/lru_replacer_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"lru_replacer_test" start time: Aug 04 14:55 CST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 1 test from 1 test case.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from LRUReplacerTest
+[0;32m[ RUN      ] [mLRUReplacerTest.SampleTest
+[0;32m[       OK ] [mLRUReplacerTest.SampleTest (0 ms)
+[0;32m[----------] [m1 test from LRUReplacerTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test case ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"lru_replacer_test" end time: Aug 04 14:55 CST
+"lru_replacer_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/13 Testing: extendible_hash_test
+3/13 Test: extendible_hash_test
+Command: "/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/extendible_hash_test" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/extendible_hash_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"extendible_hash_test" start time: Aug 04 14:55 CST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 3 tests from 1 test case.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m3 tests from ExtendibleHashTest
+[0;32m[ RUN      ] [mExtendibleHashTest.SampleTest
+[0;32m[       OK ] [mExtendibleHashTest.SampleTest (0 ms)
+[0;32m[ RUN      ] [mExtendibleHashTest.ConcurrentInsertTest
+[0;32m[       OK ] [mExtendibleHashTest.ConcurrentInsertTest (10 ms)
+[0;32m[ RUN      ] [mExtendibleHashTest.ConcurrentRemoveTest
+[0;32m[       OK ] [mExtendibleHashTest.ConcurrentRemoveTest (6 ms)
+[0;32m[----------] [m3 tests from ExtendibleHashTest (16 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m3 tests from 1 test case ran. (16 ms total)
+[0;32m[  PASSED  ] [m3 tests.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"extendible_hash_test" end time: Aug 04 14:55 CST
+"extendible_hash_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/log_manager_test
+4/13 Testing: log_manager_test
+4/13 Test: log_manager_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/log_manager_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"log_manager_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"log_manager_test" end time: Aug 04 14:55 CST
+"log_manager_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/virtual_table_test
+5/13 Testing: virtual_table_test
+5/13 Test: virtual_table_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/virtual_table_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"virtual_table_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"virtual_table_test" end time: Aug 04 14:55 CST
+"virtual_table_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/lock_manager_test
+6/13 Testing: lock_manager_test
+6/13 Test: lock_manager_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/lock_manager_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"lock_manager_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"lock_manager_test" end time: Aug 04 14:55 CST
+"lock_manager_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/b_plus_tree_concurrent_test
+7/13 Testing: b_plus_tree_concurrent_test
+7/13 Test: b_plus_tree_concurrent_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/b_plus_tree_concurrent_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"b_plus_tree_concurrent_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"b_plus_tree_concurrent_test" end time: Aug 04 14:55 CST
+"b_plus_tree_concurrent_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/b_plus_tree_print_test
+8/13 Testing: b_plus_tree_print_test
+8/13 Test: b_plus_tree_print_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/b_plus_tree_print_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"b_plus_tree_print_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"b_plus_tree_print_test" end time: Aug 04 14:55 CST
+"b_plus_tree_print_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/b_plus_tree_test
+9/13 Testing: b_plus_tree_test
+9/13 Test: b_plus_tree_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/b_plus_tree_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"b_plus_tree_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"b_plus_tree_test" end time: Aug 04 14:55 CST
+"b_plus_tree_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/tuple_test
+10/13 Testing: tuple_test
+10/13 Test: tuple_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/tuple_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"tuple_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"tuple_test" end time: Aug 04 14:55 CST
+"tuple_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/header_page_test
+11/13 Testing: header_page_test
+11/13 Test: header_page_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/header_page_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"header_page_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"header_page_test" end time: Aug 04 14:55 CST
+"header_page_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/type_test
+12/13 Testing: type_test
+12/13 Test: type_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/type_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"type_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"type_test" end time: Aug 04 14:55 CST
+"type_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/rwmutex_test
+13/13 Testing: rwmutex_test
+13/13 Test: rwmutex_test
+Command: "" "--gtest_color=yes" "--gtest_output=xml:/home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test/rwmutex_test.xml"
+Directory: /home/mashaonan/Desktop/15-445/project/sqlite-fall2017/build/test
+"rwmutex_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"rwmutex_test" end time: Aug 04 14:55 CST
+"rwmutex_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 04 14:55 CST

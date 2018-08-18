@@ -1,0 +1,10 @@
+4:log_manager_test
+5:virtual_table_test
+6:lock_manager_test
+7:b_plus_tree_concurrent_test
+8:b_plus_tree_print_test
+9:b_plus_tree_test
+10:tuple_test
+11:header_page_test
+12:type_test
+13:rwmutex_test

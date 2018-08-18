@@ -1,0 +1,24 @@
+buffer_pool_manager_test 1 0.0119991
+lru_replacer_test 1 0.00682783
+extendible_hash_test 1 0.0286541
+log_manager_test 0 0
+virtual_table_test 0 0
+lock_manager_test 0 0
+b_plus_tree_concurrent_test 0 0
+b_plus_tree_print_test 0 0
+b_plus_tree_test 0 0
+tuple_test 0 0
+header_page_test 0 0
+type_test 0 0
+rwmutex_test 0 0
+---
+log_manager_test
+virtual_table_test
+lock_manager_test
+b_plus_tree_concurrent_test
+b_plus_tree_print_test
+b_plus_tree_test
+tuple_test
+header_page_test
+type_test
+rwmutex_test
